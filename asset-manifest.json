@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6d6837ae.css",
+    "main.js": "/portfolio/static/js/main.710a9cbb.js",
+    "static/js/488.0c4cc794.chunk.js": "/portfolio/static/js/488.0c4cc794.chunk.js",
+    "static/media/SejongGeulggot.ttf": "/portfolio/static/media/SejongGeulggot.b03319572485ae510490.ttf",
+    "static/media/KyoboHandwriting2023wsa.ttf": "/portfolio/static/media/KyoboHandwriting2023wsa.46d93409b6650630b218.ttf",
+    "static/media/Hakgyoansim Geurimilgi TTF R.ttf": "/portfolio/static/media/Hakgyoansim Geurimilgi TTF R.6bbd5b9bfa67b3f26421.ttf",
+    "static/media/ChosunCentennial_ttf.ttf": "/portfolio/static/media/ChosunCentennial_ttf.5a0298767b47f2acc2c9.ttf",
+    "static/media/Giants-Inline.ttf": "/portfolio/static/media/Giants-Inline.a193817e46137261a1ad.ttf",
+    "static/media/Cafe24Ssurround-v2.0.woff": "/portfolio/static/media/Cafe24Ssurround-v2.0.57c1097faa8743dc962f.woff",
+    "index.html": "/portfolio/index.html",
+    "main.6d6837ae.css.map": "/portfolio/static/css/main.6d6837ae.css.map",
+    "main.710a9cbb.js.map": "/portfolio/static/js/main.710a9cbb.js.map",
+    "488.0c4cc794.chunk.js.map": "/portfolio/static/js/488.0c4cc794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6837ae.css",
+    "static/js/main.710a9cbb.js"
+  ]
+}
